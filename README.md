@@ -4,6 +4,9 @@ A web app that will generate the most random news stories about you and your mat
 
 ## Version
 0.0 alpha
+
+## APIs
+OpenAI Text Completion https://beta.openai.com/docs/guides/completion/introduction
  
 ## Authors:
 Jasper Na <br />
