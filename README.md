@@ -3,5 +3,5 @@
 A web app that will generate the most random news stories about you and your mates, and will only contribute to the cornicopia of fake news current in mainstream media 
  
 ## Authors:
-Jasper Na
+Jasper Na <br />
 Ertugrul Omer Gul
