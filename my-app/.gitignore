@@ -13,7 +13,7 @@
 
 
 # assets
-/src/assets
+/src/assets/*
 
 # misc
 .DS_Store
