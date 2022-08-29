@@ -9,19 +9,8 @@
 
 
 .search {
- 
-  /* flex-grow: 1;
-
-
-  align-self: center;  
-  : center;
-  justify-content: center; */
   width: 50%;
-  /* background-color: rgb(255, 255, 255); */
   border-color: rgb(255, 255, 255);
-  /* opacity: 1; */
-  
-  
 }
 
 
@@ -74,8 +63,6 @@
 }
 
 
-
-
 .title-text {
   color:rgb(0, 0, 0);
   font-family: Arial, Helvetica, sans-serif;
@@ -89,11 +76,6 @@
 
 .center-gradient {
 
-
-
-
-
-
   height: 100%;
   width: 100%;
   left:0;
@@ -101,13 +83,9 @@
   top: 0;
   bottom: 0;
   position: absolute;
-
   background: rgb(16, 15, 19);
   background: radial-gradient(circle, rgb(0, 0, 3) 0%, rgba(255,255,255,0) 100%);
-
-
   opacity: 0.3;
-
   min-height: 100vh;
   display: flex;
   flex-direction: column;
